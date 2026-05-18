@@ -126,7 +126,7 @@ Monthly **MindsDB In Practice** series (Live Q&A): conceptualized and hosted wit
 | [**Lightwood Tutorial**](https://github.com/chandrevdw31/MindsDB-Lightwood-Tutorial) | ML authoring tutorials for the MindsDB stack |
 | [**MindsDB Examples**](https://github.com/chandrevdw31/mindsdb-examples) | Practical recipes for developers |
 
-👉 More on my [**portfolio**](https://chandrevdw31.github.io/chandre-portfolio/) · [**Full MindsDB role overview**](https://docs.google.com/document/d/1GCGGjnX2dsh7xCnt6a4AsvWrJ3On9vrWNBQ6vYnv8pQ/edit?usp=sharing)
+👉 More on my [**portfolio**](https://chandrevdw31.github.io/chandre-portfolio/) · [**Full MindsDB role overview**](https://github.com/chandrevdw31/chandrevdw31/blob/master/Resume/Chandre_Van_Der_Westhuizen_CV_Resume.pdf)
 
 <details>
 
