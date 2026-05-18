@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Content creation · Social media & campaigns · Developer marketing</strong><br/>
-  <em>Community management · Technical writing · Open source</em><br/>
+  <em>Content Program Management · Community management · Technical writing · Open source</em><br/>
   📍 Born-free South Africa · Formerly <strong>MindsDB</strong>
 </p>
 
