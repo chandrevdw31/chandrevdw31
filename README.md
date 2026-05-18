@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chandre Van Der Westhuizen 👋</h1>
+<h1 align="center">Hi, I'm Chandré Van Der Westhuizen 👋</h1>
 
 <p align="center">
   <img src="http://raw.githubusercontent.com/chandrevdw31/chandrevdw31/refs/heads/master/Resume/20241031_171250.jpg" width="300">
